@@ -17,7 +17,8 @@
   #### When creating a Heading you use a pound or Hash tag symbol: #.
  [^1]: The hash tag symbols create Headings in different sizes pending on how many you use. 
   [^1]: You are able to use up to 6 hash tags at a time.
-  [^1]: One hash tag with a space will render you the largest size Heading and six hash tags will render the smallest Heading.
+  1.  ***One hash tag with a space will render you the largest size Heading***    
+  1.  ***Six hash tags will render the smallest Heading***.
 
 **When you want your text to be bold** you will use two Asterisks or two Underscores before and after the text you want to be bold. 
 Though you are able to use both the asterisk and understores to bold your text, due to the fact not all applications react to underscores the same
