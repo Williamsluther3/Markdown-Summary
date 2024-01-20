@@ -14,7 +14,7 @@
 
 ### What type of symbols are used in Markdown:
 
-  #### When creating a Heading you use a pound or Hash tag symbol: #.
+#### When creating a Heading you use a pound or Hash tag symbol: #.
  * The hash tag symbols create Headings in different sizes pending on how many you use.  
  * You are able to use up to 6 hash tags that all render different affects.  
   1.  ***One hash tag with a space will render you the largest size Heading***    
